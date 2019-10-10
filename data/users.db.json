@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jon Doe",
+      "username": "jondoe",
+      "email": "jondoe@email.com",
+      "jobtitle": "President",
+      "cell": "123-456-7890"
+    },
+    {
+      "id": 2,
+      "name": "Jon Doe",
+      "username": "jondoe",
+      "email": "jondoe@email.com",
+      "jobtitle": "President",
+      "cell": "123-456-7890"
+    },
+    {
+      "id": 3,
+      "name": "Jon Doe",
+      "username": "jondoe",
+      "email": "jondoe@email.com",
+      "jobtitle": "President",
+      "cell": "123-456-7890"
+    }
+  ]
+}
